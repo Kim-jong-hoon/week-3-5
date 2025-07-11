@@ -1,5 +1,5 @@
 # scikit - learn data base 교육
-
+교수님 강의 참고 링크 : [****](https://github.com/sooyoungmoon/scikit_learn/tree/main/notebooks)
 ## 머신러닝
 -머신러닝이란?
 <br>인공지능의 한분야로 사람이 직접 프로그래밍하지 않고 컴퓨터가 데이터를 입력으로 스스로 학습하는 기술
@@ -23,3 +23,5 @@
 1. MAE : (실제값 - 예측값)을 모든 샘플 데이터에 더해 평균 계산
 2. Mean Squared Error : (실체값 - 예측 값)의 제곱을 모든 샘플 데이터에 더해 더하고 평균 계산
 3. Root mean Squared Error : MSE에 양의 제곱근을 취한것
+
+
