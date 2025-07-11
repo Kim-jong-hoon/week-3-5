@@ -1,4 +1,4 @@
-### scikit - learn data base 교육
+# scikit - learn data base 교육
 
 ## 머신러닝
 -머신러닝이란?
@@ -12,5 +12,5 @@
 ## under and overfitting
 -Fitting 이란? 
  <br>  모델이 학습하는 과정
- -Underfitting : 모델이 단순하여 데이터에 패턴을 파악 못하지 못하는 현상
- -Overfitting : 모델이 복잡하여 학습 데이터는 잘 예측하나 새로운 데이터가 입력되면 낮은 성능을 보이는 현상
+<br> -Underfitting : 모델이 단순하여 데이터에 패턴을 파악 못하지 못하는 현상
+<br> -Overfitting : 모델이 복잡하여 학습 데이터는 잘 예측하나 새로운 데이터가 입력되면 낮은 성능을 보이는 현상
